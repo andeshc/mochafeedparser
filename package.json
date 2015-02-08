@@ -1,0 +1,19 @@
+{
+    "name": "mochafeedparser",
+    "version": "0.0.1",
+    "description": "A feed parser, which reads the feed content from the given url and returns sanitized feed object",
+    "main": "index.js",
+    "keywords": [
+        "mochareader",
+        "feedparser",
+        "mochafeedparser"
+    ],
+    "author": "Andesh Chogle <andeshc@outlook.com>",
+    "license": "MIT",
+    "dependencies": {
+        "bluebird": "^2.9.7",
+        "feedparser": "^0.19.2",
+        "lodash": "^3.1.0",
+        "request": "^2.53.0"
+    }
+}
